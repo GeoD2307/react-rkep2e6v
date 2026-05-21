@@ -3,7 +3,6 @@
 A Single Page Application (SPA) built with React that allows users to browse, search, and discover movies. The app fetches real-time data from an external API and features a clean, responsive interface.
 
 ## 🔗 Live Demo
-
 [View Live App](https://gmovieapp.netlify.app/)
 
 
@@ -24,7 +23,7 @@ A Single Page Application (SPA) built with React that allows users to browse, se
 - HTML5            
 - CSS3            
 - REST API             
- -Git & GitHub     
+- Git & GitHub     
 
 
 
