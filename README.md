@@ -18,6 +18,13 @@ A Single Page Application (SPA) built with React that allows users to browse, se
 - **API Integration** – Fetches movie data dynamically from an external movie API
 - **Responsive Design** – Optimized for desktop, tablet, and mobile devices
 
+
+## 📸 Screenshots
+
+### Mobile View
+![Mobile](./src/assets/screenshot-mobile.png)
+
+
 ## 🛠️ Technologies Used
 - React            
 - React Router               |
